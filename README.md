@@ -11,6 +11,31 @@
 |Qiita|[@kurapoko](https://qiita.com/kurapoko "@kurapoko")|
 |Twitter|[@kurapoko_mk](https://twitter.com/kurapoko_mk "@kurapoko_mk")|
 
+## 職務経歴
+
+### N社　（2019年8月〜現在）
+#### フロントエンドエンジニア
+#### 主な業務
+
+### U社　（2016年1月〜2019年7月）
+#### フロントエンドエンジニア
+#### 主な業務
+- HTML/CSS/JavaScriptを使ったWEBサイトのコーディング
+- Movable Typeの実装・改修
+- WordPressの実装・改修
+
+
+
+### P社　（2015年4月〜2015年9月）
+#### パッケージベンダーのソリューション営業
+#### 主な業務
+- 議事録作成
+- 製品のデモンストレーション
+
+
+
+
+
 ## 概要
 - フロントエンド領域を主に経験してきました。
 - 主にHTML,CSS,JSを使ったフロントエンド設計・実装が主な業務範囲です。
