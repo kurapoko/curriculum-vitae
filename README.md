@@ -1,6 +1,7 @@
 # 職務経歴書
-***
-(2019/08/20 現在)
+
+(2021/05/20 現在)
+
 ## 基本情報
 
 |key|value|
@@ -8,56 +9,66 @@
 |名前|倉原 昌宏|
 |生年月日|1990/06/22|
 |最終学歴|学士(関関同立)|
-|Qiita|[@kurapoko](https://qiita.com/kurapoko "@kurapoko")|
-|Twitter|[@kurapoko_mk](https://twitter.com/kurapoko_mk "@kurapoko_mk")|
+|GitHub|[kurapoko](https://github.com/kurapoko "kurapoko")|
 
 ## 職務経歴
 
-### N社　（2019年8月〜現在）
-#### フロントエンドエンジニア
+### N社　フロントエンドエンジニア（2019年8月〜現在）
+
+- HTML/CSS/JavaScript（jQuery, Vue.js） を使ったWEBサイト、WEBアプリのコーディング
+- Angularを用いたWEBアプリのフロントエンド開発
+
 #### 主な業務
 
-### U社　（2016年1月〜2019年7月）
-#### フロントエンドエンジニア
-#### 主な業務
-- HTML/CSS/JavaScriptを使ったWEBサイトのコーディング
+### U社　フロントエンドエンジニア（2016年1月〜2019年7月）
+
+- HTML/CSS/JavaScript（jQuery） を使ったWEBサイトのコーディング
 - Movable Typeの実装・改修
 - WordPressの実装・改修
+- 派遣社員との面談、マネージメント
 
+### P社　ソリューション営業（2015年4月〜2015年9月）
 
-
-### P社　（2015年4月〜2015年9月）
-
-#### パッケージベンダーのソリューション営業
-
-#### 主な業務
-* 議事録作成
-* 製品のデモンストレーション
-
-
+- 議事録作成
+- パッケージソフトのデモンストレーション
+- 見積書作成
+- その他総務/営業系業務
 
 ## 技術・スキル
+
 ### HTML
-* HTML4を使ったメールマガジンのコーディングからHTML5を使ったLP、コーポレートサイト、WEBアプリケーションのマークアップまで幅広く経験。
-* JavaScriptフレームワークを使ったコンポーネント指向に基づくHTML設計
-* アクセシビリティに配慮したマークアップ
-* テンプレートエンジン（ejs、Smarty）の使用経験あり。
+
+- LP、コーポレートサイト、ECサイト、WEBアプリケーションのマークアップまで幅広く経験。
+- JavaScriptフレームワークを使ったコンポーネント指向に基づくHTML設計
+- Webアクセシビリティに配慮したマークアップ
+- テンプレートエンジン（ejs、Smarty）の使用経験あり。
 
 ### CSS
-* BEM、FLOCSSを使ったCSS設計の経験があります。
-* SCSSの使用経験があります。
+
+- BEM、FLOCSSを使ったCSS設計の経験があります。
+- SCSSの使用経験があります。
 
 
 ### JavaScript
-* TypeScriptの使用経験があります。
-* フレームワーク・ライブラリでは、Vue.js、Angular、jQueryの利用経験があります。
-## 概要
-- フロントエンド領域を主に経験してきました。
-- 主にHTML,CSS,JSを使ったフロントエンド設計・実装が主な業務範囲です。
-- 主にGulp・SASS・BEM記法を使ってランディングページから中規模サイトまで幅広く単独でコーディング経験あり。
-- UIの改修等も行う。
-- バックエンド領域はWordPressやMovableTypeの構築・改修、スポットでのPHP改修経験もあります。
-- 今後はJavaScriptフレームワーク、プログレッシブWebアプリ、
+
+- TypeScriptの使用経験がある。
+- フレームワーク・ライブラリでは、Vue.js、Angular、jQueryの使用経験あり。
+- Gulpを使ったタスクランナーの構築がある。
+
+### PHP
+
+- 半年程度のバックエンド開発経験あり。
+  - PHP5系 CodeIgniter/MySQL 
+- WordPressの構築・実装経験がある。
+
+### ツール
+- Adobe製品のうち、PhotoSHop
+### その他
+
+- Storybookを使ったUIコンポーネントリストの作成経験がある。
+- ESLint / Prettier / VS Codeを使ったコーディング環境の構築経験がある。
+- Gitはコマンドベース、GUIベース(TortoiseGit/SourceTree)の両方の使用経験がある。
+
 
 ## 今後のキャリア展望(希望)
 ***
